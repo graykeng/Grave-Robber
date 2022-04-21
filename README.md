@@ -18,3 +18,6 @@ In the main directory then execute the following command to run the game: `java 
 
 ### JAVADOCS
 For After executing `mvn clean package` Javadocs can be found in the target/apidocs folder.
+
+### .jar PATH
+Grave-Robber/out/artifacts/cmpt276_group_15_jar/
